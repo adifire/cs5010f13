@@ -1,0 +1,3 @@
+Date   Who        Start  Stop   Interruptions Question TimeOnTask   Comments
+9/12   AR,KC      18:20  18:45     5             4        20        Starting with Racket Lab
+============committing to git: 9/12 18:55 ===================
