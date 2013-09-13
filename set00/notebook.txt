@@ -4,3 +4,7 @@ Date   Who        Start  Stop   Interruptions Question TimeOnTask   Comments
 9/12   AR,KC      18:57  19:27     10            4        20        Helping out KC with Racket setup
 								    and figuring out conditions and looping. 
 ============committing to git: 9/12 19:29 ===================
+9/12   AR,KC      19:30  20:10     30            2        10        Recitation got over, so had to complete
+								    at curry center later on; Did the nested
+								    conditions
+============committing to git: 9/12 20:11 ===================
